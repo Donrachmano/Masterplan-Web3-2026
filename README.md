@@ -423,3 +423,33 @@ Kurikulum belajar Web3 Developer dari nol sampai profesional selama tahun 2026.
 
 KITA MEMANG HEBAT
 ---
+## 🏆 PERSONAL PROJECTS BOARD
+
+### 🚩 Jangka Pendek (Fase Belajar: Q1 - Q2)
+> *Tujuan: Mengasah logika dasar Web2 dan integrasi database sederhana.*
+
+1. **Aplikasi Silsilah (Family Tree & Population Record)**
+   - **Deskripsi:** Aplikasi pencatatan data penduduk desa beserta visualisasi pohon keluarganya.
+   - **Fitur:** Input data kelahiran, hubungan orang tua-anak, dan pencarian data warga.
+   - **Tech Stack:** HTML, Tailwind CSS, JavaScript (Bulan 1-2).
+   - **Target:** Selesai di akhir Bulan 3.
+
+2. **Aplikasi Manajemen Aset Desa (Village Asset Tracker)**
+   - **Deskripsi:** Pencatatan aset milik desa (tanah kas desa, alat pertanian, bangunan) agar transparan.
+   - **Fitur:** Daftar aset, status kondisi, dan penanggung jawab.
+   - **Tech Stack:** React, TypeScript, & LocalStorage (Bulan 3).
+   - **Target:** Selesai di pertengahan Bulan 4.
+
+### 🏛️ Jangka Menengah (Fase Professional: Post 12 Months)
+> *Tujuan: Implementasi Web3 untuk solusi skala nasional (DTSEN).*
+
+**Proyek Utama: Decentralized Social & Economic Survey (D-SES)**
+- **Misi:** Transformasi DTSEN menjadi database yang anti-manipulasi, transparan, dan tepat sasaran.
+- **Fitur Utama:**
+    - **Immutability:** Data survei ekonomi yang sudah di-commit petugas tidak bisa diubah oknum.
+    - **Geotagging Validation:** Input data hanya sah jika dilakukan di lokasi koordinat rumah warga.
+    - **Privacy-Preserving:** Menggunakan enkripsi agar data pribadi warga hanya bisa dibuka oleh instansi terkait.
+    - **Audit Trail:** Masyarakat bisa memantau statistik bantuan tanpa bisa melihat data pribadi individu.
+- **Tech Stack:** Solidity (Foundry), IPFS (Storage), The Graph (Indexing), & Layer 2 (Base/Arbitrum).
+- **Target:** Mulai didevelop setelah Desember 2026 sebagai Portfolio Masterpiece.
+---
